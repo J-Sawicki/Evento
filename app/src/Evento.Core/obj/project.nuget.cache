@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F9FEtORxuBFDEb88wIBsz6+qYQg+fxmrXCNweGc9Xqv9A7N1/ItlMfukMgFhSIxRUOaTA48vhmqzjHAHxU/T+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\barma\\dotnet\\app\\src\\Evento.Core\\Evento.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barma\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\barma\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
